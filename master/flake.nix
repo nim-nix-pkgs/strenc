@@ -9,7 +9,7 @@
   
   inputs.src-strenc-master.flake = false;
   inputs.src-strenc-master.owner = "Yardanico";
-  inputs.src-strenc-master.ref   = "refs/heads/master";
+  inputs.src-strenc-master.ref   = "master";
   inputs.src-strenc-master.repo  = "nim-strenc";
   inputs.src-strenc-master.type  = "github";
   
